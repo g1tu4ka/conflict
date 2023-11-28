@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 34 items about me
 
 - I have a cat
